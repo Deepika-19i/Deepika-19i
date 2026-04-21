@@ -1,5 +1,16 @@
-## Hi there 👋
+# Hi, I'm Deepika 👋
 
+🎓 Student | AI & ML Enthusiast  
+💻 Built an Emotion Detection System (Face, Voice & Text)  
+
+## 🛠️ Skills
+Python | TensorFlow | OpenCV | NLP  
+
+## 🚀 Project
+🎭 Emotion Detection Project  
+
+## 📫 Connect
+GitHub: https://github.com/Deepika-19i
 <!--
 **Deepika-19i/Deepika-19i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
